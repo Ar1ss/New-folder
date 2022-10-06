@@ -19,5 +19,3 @@ public class ZooAnimal {
     public ZooAnimal() {
     }
 }
-// Language: java
-// Path: zookeper\src\main\java\com\zookeper\zookeper\ZooAnimalRepository.java
